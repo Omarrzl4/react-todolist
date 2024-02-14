@@ -1,0 +1,11 @@
+body{
+     
+    align-items: center;
+    justify-content: center;
+    color: green;
+    font-weight: 900;
+    text-shadow: 3px 3px 3px black;
+}
+span{
+    font-size: 40px;
+}
